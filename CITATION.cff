@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+title: "Introducing Equilibrift: A Computational Framework for Computational Economics"
+authors:
+  - name: "Economic Research Collective"
+version: "1.0.0"
+date-released: "2026-02-17"
+license: MIT
+repository-code: "https://github.com/EconomicTermDevelopments/equilibrift-economics"
+keywords:
+  - economics
+  - equilibrift
+  - computational-economics
+  - computational-framework
+  - emerging-terminology
+abstract: "Equilibrift is defined here as market state where a theoretical clearing equilibrium exists but becomes dynamically unreachable due to adaptation lags or capacity constraints that create insurmountable gaps between current system state and equilibrium position. This paper develops Equilibrift as a computational framework for computational economics by linking the concept to market conditions where equilibrium exists in theory but remains dynamically unreachable, formalizing adjustment delays and capacity constraints prevent state variables from converging to clearing conditions, and operationalizing Equilibrift with a transparent index built from channels such as equilibrium gap, adjustment lag, capacity constraint, and coordination failure, while also showing how Equilibrift can support comparative statics, empirical measurement, and policy simulation in reproducible economic research."

@@ -1,0 +1,25 @@
+{
+  "term": "Equilibrift",
+  "definition": "Market state where a theoretical clearing equilibrium exists but becomes dynamically unreachable due to adaptation lags or capacity constraints that create insurmountable gaps between current system state and equilibrium position.",
+  "etymology": "Portmanteau combining 'equilibrium' + 'rift'.",
+  "field": "Computational Economics",
+  "subfields": [
+    "Computational Economics",
+    "Agent-Based Modeling",
+    "Complex Systems Economics"
+  ],
+  "jel_codes": [
+    "C63",
+    "C73"
+  ],
+  "synonyms": [
+    "unreachable-equilibrium regime"
+  ],
+  "related_concepts": [
+    "Disequilibrium dynamics",
+    "Adjustment frictions",
+    "Complex adaptive systems"
+  ],
+  "first_usage": "2026",
+  "status": "emerging"
+}

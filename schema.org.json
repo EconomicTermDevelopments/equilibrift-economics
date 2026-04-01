@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Equilibrift",
+  "description": "Market state where a theoretical clearing equilibrium exists but becomes dynamically unreachable due to adaptation lags or capacity constraints that create insurmountable gaps between current system state and equilibrium position.",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Economic Terminology",
+    "datePublished": "2026-02-17"
+  },
+  "termCode": "C63"
+}
